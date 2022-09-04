@@ -10,7 +10,7 @@
 }
 
 .attribution a {
-    color: hsl(228, 45%, 44%);
+    color: hsl(228, 72%, 65%);
 }
 
 .header, .chart{
@@ -36,7 +36,7 @@
     background-color: hsl(33, 100%, 98%);
 }
 
-p, h3{
+p, h3, .attribution{
     font-family: 'DM Sans', sans-serif;
 }
 
